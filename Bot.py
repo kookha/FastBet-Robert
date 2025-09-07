@@ -90,7 +90,7 @@ def get_syriatel_number(message):
 @bot.message_handler(func=lambda message: message.text == "💳 شحن رصيد في البوت")
 def charge_balance(message):
     markup = ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add("سيرياتيل كاش", "بيمو", "بايير", "رجوع")
+    markup.add("سيرياتيل كاش", "بايير", "رجوع")
     bot.send_message(message.chat.id, "💳 اختر طريقة الشحن:", reply_markup=markup)
 
 # اختيار سيرياتيل كاش
@@ -100,7 +100,7 @@ def syriatel_cash(message):
     markup.add(InlineKeyboardButton("❌ إلغاء", callback_data="cancel_charge"))
   bot.send_message(
         message.chat.id,
-        "📲 قم بالتحويل (يدوي) إلى التاجر صاحب الرقم 59946976\n\n"
+        "📲 قم بالتحويل (يدوي) إلى التاجر صاحب الرقم 13310093\n\n"
         "💡 أقل مبلغ شحن للرصيد هو 15,000\n\n"
         "✍️ أدخل رقم عملية التحويل:",
         reply_markup=markup
@@ -140,7 +140,7 @@ def process_transaction(message, transaction_id):
     # الحصول على ID المستخدم
     user_id = message.from_user.id
     
-    admin_id = 5504502257  # أيدي المشرف
+    admin_id = @FastBet_Robert  # أيدي المشرف
     bot.send_message(
         admin_id,
         f"🚨 طلب شحن جديد 🚨\n\n"
@@ -348,7 +348,7 @@ def process_withdraw_number(message):
 
     amount = users_data[user_id]["withdraw_amount"]
     users_data[user_id]["balance"] -= amount  # خصم الرصيد
-    admin_id = 5504502257  # أيدي المشرف
+    admin_id = @FastBet_Robert  # أيدي المشرف
 
     # إرسال الطلب للمشرف
     bot.send_message(
@@ -441,8 +441,8 @@ def go_back(message):
 def account_info(message):
     info_message = (
         "🔐 معلومات حسابك في ايشانسي ⚡️\n\n"
-        "👤 Username: soar0103\n"
-        "🔑 Password: plmpplmq8eA\n"
+        "👤 Username: K.Test01\n"
+        "🔑 Password: 12345Kk@\n"
         "🆔 Id: 109788974\n"
         "💰 Balance: 0"
     )
@@ -474,7 +474,7 @@ def withdraw_balance(message):
 
 # تعديل 2 
 # قائمة لتخزين معرفات المشرفين
-ADMIN_IDS = {5504502257}  # استبدل هذه الأعداد بمعرفات المشرفين الحقيقيين
+ADMIN_IDS = {@FastBet_Robert}  # استبدل هذه الأعداد بمعرفات المشرفين الحقيقيين
 
 
 # دالة للتحقق مما إذا كان المستخدم مشرفًا
