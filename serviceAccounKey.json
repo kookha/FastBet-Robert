@@ -1,0 +1,14 @@
+
+  "type": "service_account",
+  "project_id": "fastbet-robert",
+  "private_key_id": "f410a323be4540b3ed3d2da40792a03eac35c295",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGmvsdMCnoEKuf\ncmNiHP5UZtixCCk0qz1MldkSS0HJWghpxx86cNTU6mk466CM38/uHDglHMlo/zty\nSFgOVFuvt9SPGrroK/2Q+kJtKkU7dK6KQ0CneZvyf9u6dEnU0HgVl/tZ/PSd66Ee\npp4bPiwyfYprOqi1cZklXTEjoXZK4TH/PpehdFNTnggaVsKGYtu6dg+mILMdTsSa\nx4ZTlIuXaYF4ugPcyvDZh45Q9LX7EeXDQtR942Rus28JKp/BlH3n/dvgF/q0CEsj\n9RRBS9hHu2fnxp/J1RKghjhBxQ2aLMeuEPS328U2YzixjRagP9OUA3fGXAIfNYlt\nyZWf9DyvAgMBAAECggEABHsRRiIz4zSA3htddbIAmrgIWAntrOfXEbtRN/LPczSa\nHO/8V3wW07BiMtKb+8k+Jiw1jOjMxnwGL7BZaUnF1XbnLcYWCEYvfGPO7aPkctB5\n/9MyLzonTwZLjUNnipoVc+iHa1wPyxZprcw+9NLqopBZyNoQoRU63kuDldNP8QPD\nrBREUGcpyDB3bmW2NMHsMZW1RIa51mcB07g1EKUovr00vbyi9k6ci2RkfWbZYMks\nfGcvc0GcCX9amO+SOhHM4f/PIGhlNiiT9HCrgHF23LsJ+2gl9MqGvugSWBX7KEZn\nuKlxSIEIUlIpat+urBfIJCY7YnkGi+0K0x0TS5JJOQKBgQDrbstOqnSRWxnsL/Tt\nyZt8+mhuS/NM06mBh0F2/FsrW9eP5FHdTUZWP52ZSaYHFjjA1E4VfKShtleC2m4b\nu5U35GUj2UdUE6/ErdiWp+ZIXO93Yr61yChktJitEJuQQtiE31xYYjzT+QOLshaO\niFST6vv3PVE9ha21sDIgXKFDpQKBgQDX9JS2/iSIC3ayfPzzTUOS9aJRkUFEDDVB\ngrpP9yXRBxliCfnSamTq9JYBSxLcVnymZXeu2Dy9045mJmWCBF7TxuDHFFtrZhtz\nhbRArh/oRoqD664ORqoW7tt5wnzv4zp9vsQ9Oft+H3uWXXzX3hWw573Hp9Ew90d4\nu8b90AD+wwKBgEKbJL+Lr9DTskDEzIldaTTxbwwNRrbsht8TUe0EthJNOG4IDTUL\nwKNz+fU9BdCpc8LyDWk8yyLJAHcPruj/p9aZMhfzR5+8thRxjn4I4DiGumTPNd8d\n0nezNCJ6OViV4MWun2SN3mGl6F/kMUd/wFXcvA4Vdd9u61ckkvne2uzVAoGBAIYf\nikmI2CmCbSr3w6ZcY06frjtYqp9Xsa/JQGuvxNXowdQI/Ba6K4lddNjCxqkAMhSq\nSkXWWQtQnE1HJZ41lquTBkG+m/S9CumZrdTKEFkTjq3WL1kAfF0X5kneB/h5OPem\nBn08SL0RUpGV6JatgO1JUK3yxVLTEZmjjjhO+n8/AoGBAIDwVJVzUHtIPudbIHaW\ndFwvotb3hMhQXARxvVZ5tXnayP3Inzfb0ArygWIvrXDtfFGoRYKY9UWhR6wUwjse\n2u54QZE7bJ7WGixOTmcXPmNlmUSKPVx5UrNROGRzGwiJYbk30NCAEdAH0VMjutwR\nUsIR4YTOLGK7N/VsFXTp8a/C\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@fastbet-robert.iam.gserviceaccount.com",
+  "client_id": "100906475256436045406",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40fastbet-robert.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
