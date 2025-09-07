@@ -1,4 +1,4 @@
-
+{
   "type": "service_account",
   "project_id": "fastbet-robert",
   "private_key_id": "f410a323be4540b3ed3d2da40792a03eac35c295",
@@ -11,4 +11,3 @@
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40fastbet-robert.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
-
